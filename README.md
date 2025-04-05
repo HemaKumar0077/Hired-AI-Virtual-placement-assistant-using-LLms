@@ -71,6 +71,8 @@ pip install -r requirements.txt
 
 3. Open your browser and visit:  
     [http://localhost:8501](http://localhost:8501)
+   ![Uploading Screenshot 2025-04-05 000245.png…]()
+
 
 ---
 
@@ -106,7 +108,7 @@ All required packages are listed in `requirements.txt`.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name]
+Made with by P M Hema Kumar Reddy, Harshini and Poojitha Reddy
 
 ---
 
