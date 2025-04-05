@@ -42,7 +42,7 @@ Built with **Streamlit**, this tool offers an all-in-one experience for intervie
 
 ```bash
 git clone https://github.com/yourusername/haired-ai.git
-cd haired-ai
+cd Hired-AI-Virtual-placement-assistant-using-LLms
 pip install -r requirements.txt
 ```
 
