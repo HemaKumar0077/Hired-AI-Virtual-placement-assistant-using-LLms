@@ -71,7 +71,9 @@ pip install -r requirements.txt
 
 3. Open your browser and visit:  
     [http://localhost:8501](http://localhost:8501)
-   ![Uploading Screenshot 2025-04-05 000245.png…]()
+
+   ![Haired AI Banner]([assets/banner.png](https://github.com/HemaKumar0077/Hired-AI-Virtual-placement-assistant-using-LLms/blob/main/Screenshot%202025-04-05%20000245.png))
+
 
 
 ---
