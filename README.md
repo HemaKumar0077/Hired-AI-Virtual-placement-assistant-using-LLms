@@ -1,6 +1,6 @@
 # Hired-AI-Virtual-placement-assistant-using-LLms
 Job seekers often face challenges in resume optimization, interview prep, and self-assessment. This AI-driven platform helps users refine resumes, practice with tailored interview questions, and receive feedback via mock interviews—boosting confidence and job readiness.
-# 💼 Haired AI: Resume & Interview Analyzer
+# 💼 Hired AI: Resume & Interview Analyzer
 
 Haired AI is an AI-powered web application designed to help job seekers analyze their resumes, simulate mock interviews, generate tailored interview questions, and evaluate GitHub projects using LLMs (Large Language Models).
 
