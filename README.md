@@ -110,7 +110,7 @@ All required packages are listed in `requirements.txt`.
 
 ## 🙋‍♂️ Author
 
-Made with by P M Hema Kumar Reddy, Harshini and Poojitha Reddy
+Made by P M Hema Kumar Reddy, Harshini and Poojitha Reddy
 
 ---
 
